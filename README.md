@@ -1,0 +1,7 @@
+- hi, I’m @VADDEBANDE
+- a 14 year old nub
+- into cyber security ---> red teaming
+- currently learning: penetration testing 
+- future: after mastering pentesting will move to red teaming
+- programming languages: python , bash , html (i know a little bit of thrice of 'em)
+- current achievements (for me at least): reported multple bugs to indian and bangladesh goverment , hack the box rank (personal global best): 597
